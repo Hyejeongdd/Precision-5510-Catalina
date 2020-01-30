@@ -12,7 +12,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-PNLF.aml</string>
+				<string>SSDT-BRT6.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -49,10 +49,10 @@
 			<dict>
 				<key>Comment</key>
 				<string></string>
-				<key>Enabled</key>
-				<true/>
 				<key>Path</key>
 				<string>SSDT-TYPC.aml</string>
+				<key>Enabled</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -85,6 +85,22 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-FN.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-PNLF.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-DELL.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -120,13 +136,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Rename BRT6 to BRTX</string>
+				<string>Rename BRT6 to XRT6</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>QlJUNgKg</data>
+				<data>QlJUNgKgC5M=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -134,7 +150,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>QlJUWAKg</data>
+				<data>WFJUNgKgC5M=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
