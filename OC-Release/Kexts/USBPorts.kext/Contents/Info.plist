@@ -15,7 +15,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1911</string>
+	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
@@ -36,14 +36,6 @@
 			<string>AppleUSBXHCIPCI</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
-				<key>kUSBSleepPowerSupply</key>
-				<integer>5100</integer>
-				<key>kUSBSleepPortCurrentLimit</key>
-				<integer>2100</integer>
-				<key>kUSBWakePowerSupply</key>
-				<integer>5100</integer>
-				<key>kUSBWakePortCurrentLimit</key>
-				<integer>2100</integer>
 				<key>port-count</key>
 				<data>
 				EgAAAA==
@@ -52,8 +44,6 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -63,8 +53,6 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -74,8 +62,6 @@
 					</dict>
 					<key>HS04</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -83,19 +69,8 @@
 						BAAAAA==
 						</data>
 					</dict>
-					<key>HS09</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>255</integer>
-						<key>port</key>
-						<data>
-						CQAAAA==
-						</data>
-					</dict>
 					<key>HS12</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -105,8 +80,6 @@
 					</dict>
 					<key>SS01</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>3</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -116,8 +89,6 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>3</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
