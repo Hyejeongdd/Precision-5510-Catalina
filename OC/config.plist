@@ -54,6 +54,14 @@
 				<key>Path</key>
 				<string>SSDT-PTSWAK.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-RTC.aml</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -891,7 +899,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string></string>
+				<string>darkwake=0</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
