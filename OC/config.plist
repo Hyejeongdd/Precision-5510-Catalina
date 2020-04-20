@@ -923,7 +923,9 @@
 	<key>PlatformInfo</key>
 	<dict>
 		<key>Automatic</key>
-		<true/>
+		<false/>
+		<key>DataHub</key>
+		<dict/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
