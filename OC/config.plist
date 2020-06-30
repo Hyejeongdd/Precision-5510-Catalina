@@ -552,6 +552,8 @@
 			<true/>
 			<key>HideVerbose</key>
 			<true/>
+			<key>JumpstartHotPlug</key>
+			<true/>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
