@@ -587,6 +587,8 @@
 			<string>Max</string>
 			<key>SanitiseClearScreen</key>
 			<true/>
+			<key>TextRenderer</key>
+			<string>BuiltinGraphics</string>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
