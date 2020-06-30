@@ -554,6 +554,10 @@
 			<true/>
 			<key>JumpstartHotPlug</key>
 			<true/>
+			<key>MinDate</key>
+			<integer>0</integer>
+			<key>MinVersion</key>
+			<integer>0</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
