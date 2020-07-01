@@ -804,7 +804,7 @@
 			<key>TakeoffDelay</key>
 			<integer>5000</integer>
 			<key>Timeout</key>
-			<integer>0</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
